@@ -47,5 +47,13 @@
         "source": "smart_contract_assistant",
         "content": "It looks like you want to generate a frontend for a specific smart contract address. Unfortunately, I need more specific details about the smart contract, such as its ABI and functions, to create a proper frontend. Please provide the smart contract's ABI or a brief description of its functions.",
         "metadata": {}
+    },
+    {
+        "id": "a3e1c484-b826-49f6-984e-8e97b823a289",
+        "timestamp": "2024-11-21T10:25:31.145440Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "this is a task for the base assistant, since it is only the frontend code",
+        "metadata": {}
     }
 ]
