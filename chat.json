@@ -14,5 +14,20 @@
         "source": "web_client",
         "content": "generate a frontend for this sc address eyJ0eXBlIjoiYWNjZXNzIiwia2lkIjoiZTUxNDVkYmQtZGNmYi00ZjI4LTg3NzItZjVmNjNlMzcwM2JlIiwiYWxnIjoiRVMyNTYifQ.eyJpYXQiOjE3MzIxODQ1OTEsIm5iZiI6MTczMjE4NDU5MSwiZXhwIjoxNzMyMTg2MDkxLCJ0eXBlIjoiYWNjZXNzIiwidXNlciI6IkFsZWphbmRyb0xhbmFzcGEiLCJzdWJzY3JpcHRpb24iOiIzMWNiMGI0Yi0xMjZlLTRlM2MtYTdhMS1lNWRmNDc4YTBjMDUiLCJzZXNzaW9uIjoiZGNmNTI2NzViNDk1MjJhYjZmZTRiMDI4Iiwic3NuX2V4cCI6MTczMjI2NTk2NDcyMSwiaXRlcmF0aW9uIjoiMTA2MjZiOTMyODEyNjI0MTI0OGJkYjk3In0.aMTVLk5t_kx6DPAld4vKNSO9M-VLdMp54PK48BbmznqWVq5vQIH2Bvx3x5Bdc763aAA8hUoffsTiZ25J4-4Cqg on eth",
         "metadata": {}
+    },
+    {
+        "id": "81516fe5-bc08-4ed5-a733-96e097824a7b",
+        "timestamp": "2024-11-21T10:24:58.110907Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_zuGttelMVd8tf7leNMtFxim7",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
