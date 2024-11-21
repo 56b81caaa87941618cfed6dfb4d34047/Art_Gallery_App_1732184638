@@ -98,5 +98,20 @@
         "metadata": {
             "component_id": "Hero1732184641"
         }
+    },
+    {
+        "id": "09a4a560-d34e-47f7-aea3-81301ee95c30",
+        "timestamp": "2024-11-21T10:25:58.409136Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_YP7eMWFblDVR1aAko53milrB",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732184641\",\"sc_address\":\"eyJ0eXBlIjoiYWNjZXNzIiwia2lkIjoiZTUxNDVkYmQtZGNmYi00ZjI4LTg3NzItZjVmNjNlMzcwM2JlIiwiYWxnIjoiRVMyNTYifQ.eyJpYXQiOjE3MzIxODQ1OTEsIm5iZiI6MTczMjE4NDU5MSwiZXhwIjoxNzMyMTg2MDkxLCJ0eXBlIjoiYWNjZXNzIiwidXNlciI6IkFsZWphbmRyb0xhbmFzcGEiLCJzdWJzY3JpcHRpb24iOiIzMWNiMGI0Yi0xMjZlLTRlM2MtYTdhMS1lNWRmNDc4YTBjMDUiLCJzZXNzaW9uIjoiZGNmNTI2NzViNDk1MjJhYjZmZTRiMDI4Iiwic3NuX2V4cCI6MTczMjI2NTk2NDcyMSwiaXRlcmF0aW9uIjoiMTA2MjZiOTMyODEyNjI0MTI0OGJkYjk3In0.aMTVLk5t_kx6DPAld4vKNSO9M-VLdMp54PK48BbmznqWVq5vQIH2Bvx3x5Bdc763aAA8hUoffsTiZ25J4-4Cqg\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"Generate frontend for the provided smart contract address.\",\"acknowledgement_message\":\"Okay, I'm generating the frontend for the provided smart contract address in the Hero component...\"}",
+                "name": "EditSmartContractFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
