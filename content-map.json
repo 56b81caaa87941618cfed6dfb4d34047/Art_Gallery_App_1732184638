@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "ArtCanvas",
+        "HERO_HEADING_TEXT": "Discover the World of Art at Your Fingertips",
+        "HERO_SUBHEADING_TEXT": "Explore, learn, and immerse yourself in a vast collection of paintings from around the globe",
+        "FOOTER_TEXT": "\u00a9 2023 ArtCanvas. Bringing the beauty of art to your digital space."
+    }
+}
