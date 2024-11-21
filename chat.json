@@ -55,5 +55,20 @@
         "source": "web_client",
         "content": "this is a task for the base assistant, since it is only the frontend code",
         "metadata": {}
+    },
+    {
+        "id": "aa142396-0565-4756-9b92-f39377f97138",
+        "timestamp": "2024-11-21T10:25:33.673361Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_kaNzubHjzsvJ3Tnr3r4Epm4F",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToBaseAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
