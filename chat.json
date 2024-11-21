@@ -88,5 +88,15 @@
         "source": "base_assistant",
         "content": "Please specify which component you want to update with the smart contract frontend.",
         "metadata": {}
+    },
+    {
+        "id": "912a5d1d-e887-422a-bc43-7c4cdac7bbc1",
+        "timestamp": "2024-11-21T10:25:49.881011Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "the hero",
+        "metadata": {
+            "component_id": "Hero1732184641"
+        }
     }
 ]
