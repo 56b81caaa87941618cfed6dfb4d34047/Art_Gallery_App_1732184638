@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "40599349-70b9-4c64-bf1a-f9fbf4c30236",
+        "timestamp": "2024-11-21T10:26:36.732115Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend for this sc address 0x1F98431c8aD98523631AE4a59f267346ea31F984\t on eth",
+        "metadata": {
+            "component_id": "Hero1732184641"
+        }
     }
 ]
