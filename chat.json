@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "51f9579c-8bed-412a-b435-f63eb0a5a243",
+        "timestamp": "2024-11-21T10:24:54.727661Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend for this sc address eyJ0eXBlIjoiYWNjZXNzIiwia2lkIjoiZTUxNDVkYmQtZGNmYi00ZjI4LTg3NzItZjVmNjNlMzcwM2JlIiwiYWxnIjoiRVMyNTYifQ.eyJpYXQiOjE3MzIxODQ1OTEsIm5iZiI6MTczMjE4NDU5MSwiZXhwIjoxNzMyMTg2MDkxLCJ0eXBlIjoiYWNjZXNzIiwidXNlciI6IkFsZWphbmRyb0xhbmFzcGEiLCJzdWJzY3JpcHRpb24iOiIzMWNiMGI0Yi0xMjZlLTRlM2MtYTdhMS1lNWRmNDc4YTBjMDUiLCJzZXNzaW9uIjoiZGNmNTI2NzViNDk1MjJhYjZmZTRiMDI4Iiwic3NuX2V4cCI6MTczMjI2NTk2NDcyMSwiaXRlcmF0aW9uIjoiMTA2MjZiOTMyODEyNjI0MTI0OGJkYjk3In0.aMTVLk5t_kx6DPAld4vKNSO9M-VLdMp54PK48BbmznqWVq5vQIH2Bvx3x5Bdc763aAA8hUoffsTiZ25J4-4Cqg on eth",
+        "metadata": {}
     }
 ]
