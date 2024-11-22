@@ -2,7 +2,12 @@ import React from 'react';
 
 const UniswapV3FactoryInteraction: React.FC = () => {
   return (
-    <div className="bg-gray-100 p-5 rounded-lg shadow-md">
+    <div className="bg-gray-100 p-5 rounded-lg shadow-md relative overflow-hidden">
+      <div 
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat blur-sm"
+        style={{backgroundImage: `url('https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Art_Gallery_App_1732184638/main/src/assets/images/6953eec90df64a3293c3623ad5638357.jpeg')`}}
+      ></div>
+      <div className="relative z-10">
       <h1 className="text-2xl font-bold mb-4">UniswapV3Factory Information</h1>
       
       <div className="mb-4">
@@ -28,8 +33,9 @@ const UniswapV3FactoryInteraction: React.FC = () => {
           </li>
         </ul>
       </div>
+      </div>
     </div>
-  );
+    </div>
 };
 
 export { UniswapV3FactoryInteraction as component };
