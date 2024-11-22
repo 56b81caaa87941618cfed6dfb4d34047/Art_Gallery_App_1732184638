@@ -407,5 +407,20 @@
         "metadata": {
             "component_id": "Hero1732184641"
         }
+    },
+    {
+        "id": "72f1bae6-b426-4456-8ca6-a1d28f2d7d9c",
+        "timestamp": "2024-11-22T09:50:48.295260Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_FqrJ9WtWHDHWZrGS3uuip88N",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
