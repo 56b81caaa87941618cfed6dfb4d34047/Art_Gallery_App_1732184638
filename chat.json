@@ -473,5 +473,15 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract allows users to stake 0.01 ETH on the HOLESKY network. Would you like to proceed with deploying this contract?",
         "metadata": {}
+    },
+    {
+        "id": "af704b5c-14fd-4781-8051-f3e1fca2f2d4",
+        "timestamp": "2024-11-22T09:52:06.815353Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "yes",
+        "metadata": {
+            "component_id": "Hero1732184641"
+        }
     }
 ]
