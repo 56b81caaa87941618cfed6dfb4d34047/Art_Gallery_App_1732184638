@@ -90,5 +90,20 @@
         "source": "web_client",
         "content": "no, i want o gnerate a smart contract generation",
         "metadata": {}
+    },
+    {
+        "id": "0bffa4cb-5312-47bc-ab0b-185186fbd93c",
+        "timestamp": "2024-11-22T10:04:30.729976Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_jydhzSgqQ0mmsV5ypJvfkkxw",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
