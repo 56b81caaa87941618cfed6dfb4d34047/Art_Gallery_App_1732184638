@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "d2e12d8d-9046-4118-8fd7-b81752a91fe8",
+        "timestamp": "2024-11-22T11:18:07.803980Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "GENERATE A FRONTEND TO INTERACT WITH THE SC 0x4E46BD7147ccf666E1d73A3A456fC7a68de82eCA",
+        "metadata": {}
     }
 ]
