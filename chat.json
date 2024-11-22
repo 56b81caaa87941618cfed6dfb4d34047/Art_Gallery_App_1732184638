@@ -14,5 +14,20 @@
         "source": "web_client",
         "content": "GENERATE A FRONTEND TO INTERACT WITH THE SC 0x4E46BD7147ccf666E1d73A3A456fC7a68de82eCA",
         "metadata": {}
+    },
+    {
+        "id": "4968c312-ac9d-4030-9932-781834e22ad6",
+        "timestamp": "2024-11-22T11:18:13.532357Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_9xHEwBFp76wrGUpZ1ZdF6Xho",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
