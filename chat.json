@@ -262,5 +262,15 @@
         "source": "base_assistant",
         "content": "The smart contract interaction has been removed from the Header component. If you need any further assistance or additional modifications, please let me know!",
         "metadata": {}
+    },
+    {
+        "id": "dfb7d7ea-9bc6-43a1-8f43-13900d362a55",
+        "timestamp": "2024-11-22T09:34:50.654926Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "now remove the interaction from the hero too and and an image in the background of an eye, a bit blurry",
+        "metadata": {
+            "component_id": "Hero1732184641"
+        }
     }
 ]
