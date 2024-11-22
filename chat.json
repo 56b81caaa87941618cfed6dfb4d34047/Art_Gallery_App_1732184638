@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "d68b9e7c-f468-47c8-b327-e43d16fe0b69",
+        "timestamp": "2024-11-22T10:21:29.451475Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you genreate a sc frontend interaction 0x2bfaef91588494edbf25ce1c80fb114160adbc8e in holeskuy",
+        "metadata": {}
     }
 ]
