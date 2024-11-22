@@ -516,5 +516,13 @@
         "metadata": {
             "tool_call_id": "call_SDW9Hh7ls1zyBSUVObOsvmbl"
         }
+    },
+    {
+        "id": "fc8b701f-18f8-47be-a925-cc3ec92b0f5a",
+        "timestamp": "2024-11-22T09:52:45.330457Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "The staking contract has been successfully deployed on HOLESKY at the address 0x57b719FDE849B10Bb165DBf7Ba82d362c18dC2Bc. A frontend component to interact with it has also been generated. If you need any further assistance or modifications, please let me know!",
+        "metadata": {}
     }
 ]
