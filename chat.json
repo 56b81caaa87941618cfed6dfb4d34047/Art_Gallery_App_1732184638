@@ -211,5 +211,15 @@
         "source": "base_assistant",
         "content": "I have added smart contract interactions with the specified Ethereum address to the Footer component. If you need any further alterations or additional interactions, please let me know!",
         "metadata": {}
+    },
+    {
+        "id": "0f1b3df5-4035-4062-9449-fef56ebca2b4",
+        "timestamp": "2024-11-22T09:33:39.907133Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "remove the sc interaction in the header",
+        "metadata": {
+            "component_id": "Header1732184641"
+        }
     }
 ]
