@@ -205,5 +205,13 @@
         "source": "smart_contract_assistant",
         "content": "The smart contract has been successfully deployed on the Holesky network. Do you need any further assistance?",
         "metadata": {}
+    },
+    {
+        "id": "454e3399-5e1d-41d5-acb0-9e54574c0087",
+        "timestamp": "2024-11-22T10:12:36.818100Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Generate a sc interaction frontend for the address 0xE0E3E6Ee8eADEf4e59d68E90e759FaB7Ff6bc752 in Holesky that allows me to stake and unstake",
+        "metadata": {}
     }
 ]
