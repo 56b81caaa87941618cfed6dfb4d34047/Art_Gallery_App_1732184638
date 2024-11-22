@@ -24,5 +24,20 @@
         "source": "web_client",
         "content": "generate a smart contract that allows me to stake eth (holeskty)",
         "metadata": {}
+    },
+    {
+        "id": "efd0012a-1deb-4e40-982b-6d0dc74d96c6",
+        "timestamp": "2024-11-22T10:03:43.231819Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_C5rJiU7zc9UDIGPnjlIqlZxE",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
