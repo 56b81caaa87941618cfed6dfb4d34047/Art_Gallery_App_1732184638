@@ -432,5 +432,20 @@
         "metadata": {
             "tool_call_id": "call_FqrJ9WtWHDHWZrGS3uuip88N"
         }
+    },
+    {
+        "id": "39d7b3e7-e190-438c-8cd3-2314c3bf2efa",
+        "timestamp": "2024-11-22T09:50:55.989031Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_qLKAfzSoG2hE8URQnsf8IsDL",
+            "function": {
+                "arguments": "{\"contract_id\":\"StakingContract1732184642\",\"description\":\"A smart contract that allows users to stake 0.01 ETH on the HOLESKY network.\",\"acknowledgement_message\":\"Okay, I'm generating the smart contract to allow staking of 0.01 ETH on the HOLESKY network...\"}",
+                "name": "WriteSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]
