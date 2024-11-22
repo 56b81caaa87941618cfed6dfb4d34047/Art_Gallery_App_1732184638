@@ -82,5 +82,13 @@
         "source": "base_assistant",
         "content": "May I proceed to modify the frontend to interact with your provided smart contract for staking ETH on the Holesky network?",
         "metadata": {}
+    },
+    {
+        "id": "b0d18e01-af0c-4ccd-a028-f509fc8f44cd",
+        "timestamp": "2024-11-22T10:04:27.838879Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "no, i want o gnerate a smart contract generation",
+        "metadata": {}
     }
 ]
