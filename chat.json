@@ -49,5 +49,20 @@
         "metadata": {
             "tool_call_id": "call_C5rJiU7zc9UDIGPnjlIqlZxE"
         }
+    },
+    {
+        "id": "ff4e66dd-0521-4c15-958f-e561b0e1db52",
+        "timestamp": "2024-11-22T10:03:47.177835Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_Y6RoJh0o4aO2aZUWUbylMk9m",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToBaseAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
