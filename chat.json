@@ -164,5 +164,20 @@
         "source": "web_client",
         "content": "yes",
         "metadata": {}
+    },
+    {
+        "id": "55a0f8c3-3431-4823-b958-a1be899fecef",
+        "timestamp": "2024-11-22T10:05:20.092272Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_w4HZQ2YIKXPOQEVTyNl6INui",
+            "function": {
+                "arguments": "{\"contract_id\":\"StakingHoleskySC\",\"frontend_description\":\"Frontend for staking ETH on Holesky network.\",\"acknowledgement_message\":\"Okay, I'm deploying the contract...\"}",
+                "name": "DeployAndGenerateFrontend"
+            },
+            "type": "function"
+        }
     }
 ]
