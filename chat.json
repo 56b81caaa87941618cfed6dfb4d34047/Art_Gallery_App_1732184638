@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "1d26247c-28ec-4222-b678-07895dce51bd",
+        "timestamp": "2024-11-22T09:55:23.221064Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontend that allows me to stake 0.01 eth in this sc address 0x57b719FDE849B10Bb165DBf7Ba82d362c18dC2Bc in HOLESKY",
+        "metadata": {
+            "component_id": "Header1732184641"
+        }
     }
 ]
