@@ -47,5 +47,13 @@
         "source": "smart_contract_assistant",
         "content": "To proceed, I need to know the chain on which the smart contract is deployed. Could you provide that information?",
         "metadata": {}
+    },
+    {
+        "id": "029000b0-51a1-41a2-8d1b-ec09d8070575",
+        "timestamp": "2024-11-22T11:18:21.347909Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "IN HOLERSKY",
+        "metadata": {}
     }
 ]
