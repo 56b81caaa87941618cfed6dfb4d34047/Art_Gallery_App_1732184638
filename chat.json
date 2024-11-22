@@ -156,5 +156,13 @@
         "source": "smart_contract_assistant",
         "content": "Would you like to deploy the smart contract now?",
         "metadata": {}
+    },
+    {
+        "id": "6323cc89-bc17-46ff-a9ef-d7e83d36d11e",
+        "timestamp": "2024-11-22T10:05:13.982264Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "yes",
+        "metadata": {}
     }
 ]
